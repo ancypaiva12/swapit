@@ -1,0 +1,40 @@
+.navigation{
+   background-color: #282121;
+}
+
+.navigation1{
+    color:#fee1d4;
+}
+
+.nav-profile{
+    padding-top: 0.5rem;
+    margin: 0.5rem;
+    height: 2rem;
+    width: 2rem;
+}
+
+.nav-dropdown{
+   
+    margin: 1.5rem;
+    
+}
+
+.logo{
+    padding-left: 70px;
+}
+
+.logo img{
+    width: 100px;
+    height:auto;
+}
+.nav1{
+    padding-left: 150px;
+}
+
+.nav3{
+    padding-left: 15px;
+}
+
+.content{
+    font-family:'Open Sans', sans-serif;
+}
